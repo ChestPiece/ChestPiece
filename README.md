@@ -1,15 +1,20 @@
-Hi, I'm Anas Altaf 
+Hi, I'm Anas Altaf
 <br/>
 <br/>
-Codename:ChestPiece 
+Codename: ChestPiece
 <br/>
 <br/>
-I study as a Computer Science Student 
+🎓 I'm a Computer Science student with a passion for building beautiful and interactive applications.
 <br/>
 <br/>
-I am passionate about to create beautiful interactive applications 
+💡 I love turning ideas into clean, user-friendly digital experiences.
 <br/>
 <br/>
+🌱 Currently learning and growing my skills in modern web development.
+<br/>
+<br/>
+
+
 # 💫 About Me:
 Computer Science Student at National University of Modern Languages<br>
 
