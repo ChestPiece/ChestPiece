@@ -20,5 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChestPiece&icon=1&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/ChestPiece/ChestPiece/blob/output/github-contribution-grid-snake.gif)
+
