@@ -1,31 +1,39 @@
-# 💫 About Me
-🚀 Anas Altaf | **ChestPiece**<br><br>
-Full-Stack Developer with a strong focus on **Next.js** and modern JavaScript ecosystems.<br>
-I build production-grade web apps that are fast, secure, and user-centric.<br><br>
-I love working on:<br>
-- Real products, not just demos  
-- Existing codebases & scaling systems  
-- Automation, integrations, and clean architecture<br><br>
-Code is my craft. Shipping is my mindset.<br>
+# 💫 Anas Altaf | ChestPiece
+🚀 Full-Stack Developer | **Next.js & Modern JS Ecosystem**<br>
+Building production-grade web apps that are **fast, scalable, and secure**.<br>
+**Shipping is my mindset, code is my craft.**
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-altaf-bba53027b/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=flat-square&logo=appveyor&logoColor=white)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:anasaltaf674@gmail.com)
 
 ---
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anss.altaf.sial/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-altaf-bba53027b/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasaltaf674@gmail.com)
+## 💻 Tech Stack
+### Frontend
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
----
-
-# 💻 Tech Stack
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-> Optional: move less critical tech like Firebase, NestJS, Vite, Radix UI, Three.js to a collapsible section to reduce badge clutter.
+---
+
+## 🌟 What I Build
+- **Real products**, not demos  
+- Scalable **existing codebases**  
+- Automated workflows & **clean architecture**  
+- Production-grade **web apps** with fast load & security focus  
 
 ---
 
