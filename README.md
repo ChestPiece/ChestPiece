@@ -1,66 +1,55 @@
-# 💫 Anas Altaf | ChestPiece
-🚀Full-Stack Developer | **Next.js & Modern JS Ecosystem**<br>
-Building production-grade web apps that are **fast, scalable, and secure**.<br>
-**Shipping is my mindset, code is my craft.**
----
+# Anas Altaf · ChestPiece
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-altaf-bba53027b/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=flat-square&logo=appveyor&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:anasaltaf674@gmail.com)
+**Full-Stack & AI Engineer.** I build things that run without babysitting — automation pipelines, AI agents, web apps with actual backends.
+
+Based in Pakistan. Been writing code for production since 2020. Not demos. Not tutorials. Stuff clients pay for and then forget exists because it just works.
 
 ---
 
-## 💻 Tech Stack
-### Frontend
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+## What I do
 
-### Backend & DB
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+I split my time between two kinds of work.
+
+One is automation — n8n workflows that take something a person spends hours doing every day and make it happen on its own. Lead generation, outreach, follow-ups, subscription tracking. The kind of thing where a client comes back a month later and says "I haven't touched it."
+
+The other is full-stack development — Next.js apps with real auth, real databases, real user flows. Built from scratch, shipped to production, handed over with documentation.
+
+Lately I've been doing more AI agent work. Multi-agent systems that route by intent, extract leads, handle support queues. Not wrappers around ChatGPT. Actual pipelines with logic.
 
 ---
 
-## 🌟 What I Build
-- **Real products**, not demos  
-- Scalable **existing codebases**  
-- Automated workflows & **clean architecture**  
-- Production-grade **web apps** with fast load & security focus  
+## Tech I reach for
+
+**Frontend** — Next.js, React, TypeScript, Tailwind CSS
+
+**Backend** — Node.js, PostgreSQL, Supabase, Prisma, REST APIs
+
+**Automation & AI** — n8n, OpenAI API, OpenAI Agent Builder, multi-agent architectures, RAG
+
+**Deployment** — Vercel, Railway
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ChestPiece&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ChestPiece&theme=dark&hide_border=true)<br/>
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ChestPiece&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ChestPiece&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChestPiece&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChestPiece&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Find me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anasaltaf674@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-altaf-bba53027b/)
+[![X](https://img.shields.io/badge/X-%23000000?style=flat-square&logo=x&logoColor=white)](https://x.com/anas_automates)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923137895927)
+
+Open to remote contract work and technical partnerships.
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChestPiece&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ChestPiece&icon=1&color=10)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
-
----
-
-## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChestPiece/ChestPiece/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ChestPiece/ChestPiece/output/github-contribution-grid-snake.svg">
+  <img alt="Snake" src="https://raw.githubusercontent.com/ChestPiece/ChestPiece/output/github-contribution-grid-snake.svg">
 </picture>
